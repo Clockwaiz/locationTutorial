@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LocationExercise</string>
+    <string name="google_map_api">AIzaSyDd3CYuERITNPsQYCWtAE3ZOIHTpyDSbKU</string>
+    <string name="detect_activity_button">Detect Activity</string>
+    <string name="label_latitude">Latitude:</string>
+    <string name="label_longitude">Longitude:</string>
+
+    <string name="request_activity_button">Request Activity</string>
+    <string name="remove_activity_button">Remove Activity</string>
+
+    <string name="in_vehicle">In a vehicle</string>
+    <string name="on_bicycle">On a bicycle</string>
+    <string name="on_foot">On foot</string>
+    <string name="running">Running</string>
+    <string name="still">Still</string>
+    <string name="tilting">Tilting</string>
+    <string name="unknown">Unknown</string>
+    <string name="walking">Walking</string>
+    <string name="unidentifiable_activity">Unidentifiable activity</string>
+    <string name="not_connected"></string>
+    <string name="add_geofence">Add Geofence</string>
+    <string name="geofence_not_available">Geofence Not Available</string>
+    <string name="geofence_too_many_geofences">Too Many Geofences Detected</string>
+    <string name="geofence_too_many_pending_intents">Too Many Pending Intents</string>
+    <string name="unknown_geofence_error">Unknown Geofence Error</string>
+    <string name="geofence_enter">Entering</string>
+    <string name="geofence_exit">Exiting</string>
+    <string name="geofence_dwell">Dwelling</string>
+    <string name="geofence_transition_invalid_type">Geofence transition error: invalid transition type %1$d</string>
+    <string name="geofence_button">Geofence</string>
+
+</resources>
